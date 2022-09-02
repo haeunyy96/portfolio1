@@ -1,0 +1,13 @@
+.app {
+    background-color: $senary;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        img {
+            width: 33%;
+        }
+    .appText {
+        text-align: center;
+        width: 33%;
+    }
+}

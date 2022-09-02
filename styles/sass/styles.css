@@ -332,4 +332,46 @@ li {
 a,
 button {
   font-family: "Montserrat Alternates", sans-serif;
+}
+
+.wrapper {
+  max-width: 1280px;
+  width: 85%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px 0;
+}
+
+header {
+  background-color: #F7EDE8;
+}
+
+h1 span {
+  color: #CD4631;
+}
+
+nav {
+  background-color: #F7EDE8;
+}
+
+.listeners {
+  background-color: #EDF3F7;
+}
+
+.recentEpi {
+  background-color: #F7EDE8;
+}
+
+.app {
+  background-color: #EDF3F7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.app img {
+  width: 33%;
+}
+.app .appText {
+  text-align: center;
+  width: 33%;
 }/*# sourceMappingURL=styles.css.map */
